@@ -1,0 +1,14 @@
+This analysis has been done on:
+
+Covid dataset: https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset
+GeoJson: https://raw.githubusercontent.com/southkorea/southkorea-maps/master/gadm/json/skorea-provinces-geo.json
+
+Analysis was done on Python 3.11
+Packages used:
+pandas=1.5.3
+matplotlib=3.7.1
+seaborn=0.12.2
+plotly 5.16.1
+urllib.request 2.0.3
+
+Data cleaning was done on: data_clean.ipynb
